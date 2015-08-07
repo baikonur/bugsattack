@@ -1,4 +1,5 @@
-# bugsattack
+bugsattack
+=========
 
 AdobeAIR Sample
 BugsAttack for Android (Vertical Shooter)
