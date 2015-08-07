@@ -1,4 +1,4 @@
-#bugsattack
+bugsattack
 =========
 
 AdobeAIR Sample
